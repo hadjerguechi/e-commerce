@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(255, 255, 253);
+}
+
+
+
+
+.back{
+    height: 250px;
+    width: 100%;
+    background-image: url("bike-background.jpg");
+    background-position: center;
+    
+}
+.row-1{
+    display: flex;
+    
+   
+    justify-content: center;
+}
+p{
+    color:darkgray
+}
+#h4{
+    color:darkgray
+}
